@@ -1,6 +1,5 @@
 # Tugba Ozkilinc
-# Hi, I’m from Turkey. I am Software Test Engineer(QA)...
-  # Hi 👋, I’m Software Test Engineer(QA), Lawyer and Tennis Coach also from Turkey...
+  # Hi 👋, I’m Software Test Engineer(QA), I am also from Turkey...
 - 👀 Learning software and writing code is one of my biggest passions 🔥. 
 - 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂  and seeing new places✈.
 - 📫 How to reach me tugbaozkilinc22@gmail.com
@@ -16,6 +15,7 @@
 
 
 <br />
+
 ![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=tugbaozkilinc&show_icons=true&theme=gradient)
