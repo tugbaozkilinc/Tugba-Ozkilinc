@@ -21,6 +21,12 @@
 [<img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />]
 [<img align="left" alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />]
 [<img align="left" alt="VsCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />]
+
+<br />
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=mehmetkozak&show_icons=true&theme=gradient)
+
 <br />
 
 ### Connect with me:
