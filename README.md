@@ -3,7 +3,7 @@
   # Hi 👋, I’m Software Test Engineer(QA), Lawyer and Tennis Coach also from Turkey...
 - 👀 Learning software and writing code is one of my biggest passions 🔥. 
 - 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂  and seeing new places✈.
-- 📫 How to reach me mehmetkozak46@gmail.com
+- 📫 How to reach me 
 <br />
 ### Languages and Tools:
 [<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
