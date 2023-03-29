@@ -5,7 +5,9 @@
 - 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂  and seeing new places✈.
 - 📫 How to reach me tugbaozkilinc22@gmail.com
 - <br />
+- 
 ### Languages and Tools:
+
 [<img align="left" alt="Selenium" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />][github]
 [<img align="left" alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />][github]
 [<img align="left" alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />][github]
@@ -19,11 +21,12 @@
 [<img align="left" alt="Jenkins" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />][github]
 [<img align="left" alt="Slack" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original-wordmark.svg" />][github]
 [<img align="left" alt="VsCode" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />][github]
-@@ -32,7 +32,6 @@
+<br />
 
 ### Connect with me:
 
 
 [<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[linkedin]: (https://www.linkedin.com/in/tugba-ozkilinc/)
+[linkedin]: https://www.linkedin.com/in/tugba-ozkilinc/
+[github]:  https://github.com/tugbaozkilinc 
 
