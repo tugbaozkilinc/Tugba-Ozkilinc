@@ -32,7 +32,7 @@
 ### Connect with me:
 
 
-[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="arnabdey0503 | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
 [linkedin]: https://www.linkedin.com/in/tugba-ozkilinc/
-[github]:  https://github.com/tugbaozkilinc 
+[github]: https://github.com/tugbaozkilinc 
 
