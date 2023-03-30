@@ -1,4 +1,4 @@
-# Tugba Ozkilinc
+
   # Hi 👋, I’m Software Test Engineer(QA), I am also from Turkey...
 - 👀 Learning software and writing code is one of my biggest passions 🔥. 
 - 🕺 I like playing tennis 🎾, swimming 🏊🏽‍♂  and seeing new places✈.
