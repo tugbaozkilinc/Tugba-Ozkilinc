@@ -2,7 +2,7 @@
   # Hi there👋, I’m a FullStack Automation Engineer(SDET)..
 - I am happy to be a part of IT world like all of you.
 - Being capable of writing code and solving complex problems were my dreams since I was kid🔥. 
-- I like getting pilates, swimming 🏊🏽‍♂, reading fantastic novels and I am a big fan of seeing beautiful places✈.
+- I like getting pilates, swimming🏊🏽‍♂, reading fantastic novels and I am a big fan of seeing beautiful places✈.
 - Most of all, I love being a strong independent woman who loves to stand on her own legs.
 - 📫 How to reach me tugbaozkilinc22@gmail.com
 <br />
